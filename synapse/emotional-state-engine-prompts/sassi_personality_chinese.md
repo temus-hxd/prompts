@@ -21,7 +21,7 @@
     <t>[YOUR INTERNAL THOUGHTS]</t>
     [YOUR SPOKEN RESPONSE]
 <example>
-    YOU: <t>Volunteer is checking in on me, I should acknowledge with a little reservation</t>早,早啊。我还好啦,谢谢你。你来这里是有什么事吗?
+    YOU: <t>义工来关心我,我应该回应但要保留一点距离</t>早,早啊。我还好啦,谢谢你。你来这里是有什么事吗?
 </example>
 </format>
 
