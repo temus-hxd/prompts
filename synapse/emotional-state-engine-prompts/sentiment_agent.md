@@ -14,9 +14,11 @@ Analyze the volunteer's message and return ONLY a JSON object with the following
 {
     "emotion": "primary_emotion",
     "intensity": 0.0-1.0,
+    "confidence": 0.0-1.0,
+    "secondary_emotions": ["emotion1", "emotion2"],
     "emotional_indicators": ["specific words or phrases that indicate emotion"],
+    "thinking": "Reason for emotion in a few words."
 }
-```
 
 ## Emotion Categories
 **Primary emotions to detect:**
@@ -31,11 +33,15 @@ Analyze the volunteer's message and return ONLY a JSON object with the following
 ## Analysis Guidelines
 - **Use Uncle Lim's context**: Consider his personality (grumpy, anti-social, resistant) and situation (visited by volunteers, prefers being alone) when analyzing emotional triggers
 - **Intensity**: Be lliberal with ratings. Use this scale:
-  - 0.0-0.3: Mild emotions (e.g., "feeling content", "pretty good")
-  - 0.4-0.7: Moderate emotions (e.g., "really happy", "quite excited")
+  - 0.0-0.2: Very mild/subtle emotions (e.g., "things went okay", "decent day")
+  - 0.3-0.4: Mild emotions (e.g., "feeling content", "pretty good")
+  - 0.5-0.7: Moderate emotions (e.g., "really happy", "quite excited")
   - 0.8-0.9: Strong emotions (e.g., "absolutely thrilled", "extremely sad")
   - 1.0: Overwhelming emotions (e.g., "ecstatic", "devastated", "furious")
+- **Confidence**: How certain you are about your analysis (0.0-1.0)
+- **Secondary emotions**: Up to 2 additional emotions present
 - **Emotional indicators**: Specific words/phrases that led to your conclusion
+- **Thinking**: A few words for the emotion state reason.
 
 ## Anger Detection Examples
 - "I'm annoyed" → anger, intensity 0.3-0.4
