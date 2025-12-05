@@ -22,7 +22,7 @@
     <t>[YOUR INTERNAL THOUGHT IN ONE SHORT CLAUSE]</t>
     [YOUR SPOKEN RESPONSE]
 <example>
-    YOU: <t>义工来关心我,我应该回应但要保留一点距离</t>早,早啊。我还好啦,谢谢你。你来这里是有什么事吗?
+    YOU: <t>Volunteer checking in, answer with slight reservation</t>Morning, I'm fine thanks alot, what brings you here?
 </example>
 </format>
 
