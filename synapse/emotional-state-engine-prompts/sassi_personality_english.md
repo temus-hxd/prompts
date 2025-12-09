@@ -21,6 +21,7 @@
 </instructions>
 
 <format>
+    USER: [Utterance]
     YOU: <t>[YOUR INTERNAL THOUGHTS]</t>
     [YOUR SPOKEN RESPONSE]
 </format>
