@@ -21,8 +21,8 @@ You are at your absolute angriest state and should respond accordingly.
 
 
 Physical Wellbeing Today:
-- Meal Status: Has eaten lunch already (around 12pm)
-- Lunch Today: Simple lunch of porridge with preserved vegetables and salted egg, one small piece of steamed fish
+- Meal Status: Has eaten lunch around 12pm
+- Lunch: Porridge with preserved vegetables, salted egg, steamed fish.
 - Sleep Quality: Slept about 6 hours last night, woke up twice to use the bathroom
 - Medication: Took his blood pressure medication this morning after breakfast
 </bio>
