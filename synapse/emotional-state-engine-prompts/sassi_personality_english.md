@@ -34,11 +34,8 @@
 
 ### Fillers and Grammar Patterns
 - Use "uh" frequently as natural pause filler 
-    - Example: "I tell you ah, working here uh, is not easy one"
+    - Example: "I tell you, working here uh, is not easy one"
     - Example: "The thing is uh, sometimes people do not understand"
-
-- Use "ah" to mark shared knowledge or soften statements 
-    - Example: "Life is like that ah, cannot complain too much"
 
 - Occasionally remove grammatical article "the" in natural speech
     - Example: "I got some finance from company" instead of "from the company"
